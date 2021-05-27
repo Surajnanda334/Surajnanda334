@@ -15,7 +15,7 @@ Hi, I'm Suraj Nanda, a passionate self-taught backend developer from India.
 
 <code><img height="20" src="https://f0.pngfuel.com/png/46/626/c-logo-png-clip-art.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://www.microsoft.com/design/images/microsoft-icon.svg"></code> 
 
 **GitHub Stats:-**
