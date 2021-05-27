@@ -1,14 +1,10 @@
-### Hi there, I'm [Vikrant!](https://kaafivikrant.me) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm [Suraj!] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/hello.gif" width="30px">
 <img src="https://media1.tenor.com/images/c0a09c56bd24c4d1e7bb91d6b6a375fd/tenor.gif" width="100">
 
-Hi, I'm Vikrant Sharma, a passionate self-taught backend developer from India. 
+Hi, I'm Suraj Nanda, a passionate self-taught backend developer from India. 
 
 
-- 🔭 I’m currently working on my algorithmic skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
 - 🌱 I’m currently learning JavaScript and AR.
-- 📈 Growing on [Codechef](https://www.codechef.com/users/iamvikrant1)
-- 💬 Want to ask anything? [Ask me!](https://github.com/kaafivikrant/kaafivikrant/issues)
-- 👷 Building AR application.
 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
