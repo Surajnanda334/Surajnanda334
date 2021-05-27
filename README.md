@@ -20,6 +20,6 @@ Hi, I'm Suraj Nanda, a passionate self-taught backend developer from India.
 
 **GitHub Stats:-**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaafivikrant&hide=PHP,HTML,SCSS,CSS&langs_count=8)](https://github.com/kaafivikrant/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajnanda334&hide=PHP,HTML,SCSS,CSS&langs_count=8)](https://github.com/surajnanda334/github-readme-stats)
 
 
